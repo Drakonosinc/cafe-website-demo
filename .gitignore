@@ -1,0 +1,14 @@
+# Dependencias y artefactos temporales (no requeridos en producción)
+node_modules/
+package.json
+package-lock.json
+
+# Reportes locales de auditoría
+lighthouse-*.html
+lighthouse-*.json
+*.report.html
+*.report.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

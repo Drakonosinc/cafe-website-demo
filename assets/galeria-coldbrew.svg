@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+  <rect width="480" height="360" rx="20" fill="#EAE2D6"/>
+  <circle cx="348" cy="116" r="78" fill="#F5EBD6"/>
+  <rect y="280" width="480" height="80" fill="#D5B89B"/>
+  <line x1="0" y1="280" x2="480" y2="280" stroke="#A98566" stroke-width="3.5"/>
+
+  <!-- Botella de maceración en frío -->
+  <path d="M126 142l14-26v-30h32v30l14 26v136a10 10 0 0 1-10 10h-40a10 10 0 0 1-10-10V142Z" fill="#4E3124" stroke="#231915" stroke-width="3"/>
+  <rect x="138" y="76" width="36" height="14" rx="4" fill="#9E3E20" stroke="#231915" stroke-width="2.5"/>
+  <rect x="132" y="168" width="48" height="68" rx="4" fill="#FAF6F0" stroke="#231915" stroke-width="2"/>
+  <line x1="142" y1="186" x2="170" y2="186" stroke="#9E3E20" stroke-width="3" stroke-linecap="round"/>
+  <line x1="142" y1="198" x2="170" y2="198" stroke="#634B3E" stroke-width="2" stroke-linecap="round"/>
+  <line x1="142" y1="208" x2="164" y2="208" stroke="#634B3E" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Vaso alto acanalado con Cold Brew -->
+  <path d="M242 104h98l-10 184h-78Z" fill="#FFFDF9" fill-opacity="0.72" stroke="#231915" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M248 148h86l-7 132h-72Z" fill="#5A3322"/>
+  <path d="M250 148h82l-3 46h-76Z" fill="#854E32" opacity="0.8"/>
+
+  <!-- Cubos de hielo translúcidos -->
+  <rect x="260" y="138" width="30" height="28" rx="5" transform="rotate(-12 260 138)" fill="#FAF6F0" fill-opacity="0.78" stroke="#231915" stroke-width="2"/>
+  <rect x="294" y="144" width="28" height="28" rx="5" transform="rotate(14 294 144)" fill="#FAF6F0" fill-opacity="0.72" stroke="#231915" stroke-width="2"/>
+  <rect x="272" y="176" width="28" height="26" rx="5" transform="rotate(6 272 176)" fill="#FAF6F0" fill-opacity="0.45" stroke="#231915" stroke-width="1.8"/>
+
+  <!-- Rodaja de naranja -->
+  <circle cx="322" cy="116" r="24" fill="#D4742C" stroke="#231915" stroke-width="2.4"/>
+  <circle cx="322" cy="116" r="18" fill="#F0A54B"/>
+  <path d="M322 98v36M304 116h36M309 103l26 26M335 103l-26 26" stroke="#FAF6F0" stroke-width="1.8"/>
+
+  <!-- Sorbete reutilizable -->
+  <path d="M276 62l12 184" stroke="#9E3E20" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Hojita de menta -->
+  <ellipse cx="366" cy="264" rx="18" ry="9" transform="rotate(-18 366 264)" fill="#456D52" stroke="#231915" stroke-width="2"/>
+  <ellipse cx="386" cy="272" rx="14" ry="7" transform="rotate(15 386 272)" fill="#7C9C84" stroke="#231915" stroke-width="2"/>
+</svg>

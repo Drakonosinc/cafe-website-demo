@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+  <rect width="480" height="360" rx="20" fill="#FAF6F0"/>
+  <rect y="286" width="480" height="74" fill="#D8BEA5"/>
+  <line x1="0" y1="286" x2="480" y2="286" stroke="#B99272" stroke-width="4"/>
+
+  <!-- Balanza barista -->
+  <rect x="132" y="256" width="160" height="30" rx="8" fill="#231915"/>
+  <rect x="148" y="264" width="60" height="14" rx="3" fill="#3E2B23"/>
+  <text x="178" y="275" text-anchor="middle" font-family="monospace" font-size="10" fill="#E8C687">02:45 · 18g</text>
+
+  <!-- Jarra de vidrio server -->
+  <path d="M168 256l14-68h60l14 68a10 10 0 0 1-10 12h-68a10 10 0 0 1-10-12Z" fill="#FFFDF9" fill-opacity="0.85" stroke="#231915" stroke-width="3"/>
+  <path d="M174 248l9-34h58l9 34a7 7 0 0 1-7 8h-62a7 7 0 0 1-7-8Z" fill="#6F3822"/>
+  <path d="M242 198h14a12 12 0 0 1 0 28h-10" fill="none" stroke="#231915" stroke-width="3"/>
+
+  <!-- Cono V60 cerámico -->
+  <path d="M156 116h112l-38 72h-36Z" fill="#FFFDF9" stroke="#231915" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M168 116l10-18h68l10 18Z" fill="#E8DDD1" stroke="#231915" stroke-width="2.4"/>
+  <path d="M174 128h76M182 146h60M190 164h44" stroke="#D9C6B4" stroke-width="2"/>
+  <ellipse cx="212" cy="188" rx="34" ry="5" fill="#9E3E20" stroke="#231915" stroke-width="2.5"/>
+
+  <!-- Tetera cuello de cisne vertiendo -->
+  <path d="M294 174c-24-22-42-56-62-56-10 0-16 8-20 18" fill="none" stroke="#231915" stroke-width="8" stroke-linecap="round"/>
+  <path d="M294 174c-24-22-42-56-62-56-10 0-16 8-20 18" fill="none" stroke="#4E3B31" stroke-width="4" stroke-linecap="round"/>
+  <path d="M286 124h86l14 78H272Z" fill="#231915" stroke="#231915" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M298 124c10-14 52-14 62 0" fill="#9E3E20" stroke="#231915" stroke-width="2.5"/>
+  <path d="M372 134h24a12 12 0 0 1 0 38h-18" fill="none" stroke="#231915" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- Chorro de agua -->
+  <path d="M212 136v26" stroke="#C7DAE0" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="212" cy="166" r="4" fill="#C7DAE0"/>
+
+  <!-- Vapor -->
+  <path d="M196 86c-5-9 5-16 0-24M224 84c-5-9 5-16 0-24" fill="none" stroke="#9E3E20" stroke-width="2.4" stroke-linecap="round" opacity="0.7"/>
+</svg>

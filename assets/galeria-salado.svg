@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+  <rect width="480" height="360" rx="20" fill="#F2EAE0"/>
+  <!-- Tabla de madera rectangular -->
+  <rect x="74" y="76" width="332" height="214" rx="28" fill="#C9A27E" stroke="#231915" stroke-width="3"/>
+  <circle cx="102" cy="183" r="10" fill="#F2EAE0" stroke="#231915" stroke-width="2.5"/>
+
+  <!-- Rebanada de pan de masa madre -->
+  <path d="M136 226c-8-46 18-92 84-96 66-4 114 26 118 74 4 38-34 52-104 54-68 2-92-8-98-32Z" fill="#9E6234" stroke="#231915" stroke-width="2.8"/>
+  <path d="M148 218c-6-38 16-74 74-78 56-4 98 20 100 60 2 28-28 40-90 42-60 2-78-6-84-24Z" fill="#E8D2B5"/>
+
+  <!-- Láminas de palta -->
+  <ellipse cx="204" cy="192" rx="34" ry="20" transform="rotate(-12 204 192)" fill="#5C8456" stroke="#231915" stroke-width="2"/>
+  <ellipse cx="244" cy="186" rx="36" ry="20" transform="rotate(-6 244 186)" fill="#759E6E" stroke="#231915" stroke-width="2"/>
+  <ellipse cx="282" cy="192" rx="32" ry="18" transform="rotate(8 282 192)" fill="#8BB583" stroke="#231915" stroke-width="2"/>
+
+  <!-- Tomates cherry asados -->
+  <circle cx="182" cy="176" r="11" fill="#B53823" stroke="#231915" stroke-width="2"/>
+  <circle cx="268" cy="212" r="12" fill="#9E3E20" stroke="#231915" stroke-width="2"/>
+  <circle cx="302" cy="174" r="10" fill="#B53823" stroke="#231915" stroke-width="2"/>
+
+  <!-- Semillas de sésamo -->
+  <circle cx="212" cy="184" r="2.2" fill="#231915"/>
+  <circle cx="236" cy="178" r="2.2" fill="#FAF6F0"/>
+  <circle cx="254" cy="192" r="2.2" fill="#231915"/>
+  <circle cx="276" cy="196" r="2.2" fill="#FAF6F0"/>
+  <circle cx="222" cy="202" r="2.2" fill="#231915"/>
+
+  <!-- Brotes verdes -->
+  <path d="M160 232c14-12 24-12 34 0" fill="none" stroke="#244A31" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M294 232c12-10 26-10 34 2" fill="none" stroke="#244A31" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

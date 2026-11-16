@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <!-- Fondo cálido del mapa -->
+  <rect width="640" height="420" rx="20" fill="#F2EAE0"/>
+
+  <!-- Manzanas urbanas -->
+  <rect x="28" y="28" width="160" height="114" rx="10" fill="#E8DDD1"/>
+  <rect x="228" y="28" width="184" height="114" rx="10" fill="#E8DDD1"/>
+  <rect x="452" y="28" width="160" height="114" rx="10" fill="#E8DDD1"/>
+
+  <rect x="28" y="180" width="160" height="110" rx="10" fill="#E8DDD1"/>
+  <rect x="228" y="180" width="184" height="110" rx="10" fill="#E8DDD1"/>
+  <!-- Plaza del barrio -->
+  <rect x="452" y="180" width="160" height="110" rx="10" fill="#D7E5D9" stroke="#7C9C84" stroke-width="2"/>
+  <circle cx="512" cy="224" r="18" fill="#7C9C84"/>
+  <circle cx="554" cy="242" r="22" fill="#456D52"/>
+  <circle cx="486" cy="254" r="14" fill="#456D52"/>
+  <text x="532" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#244A31">Plaza del Barrio</text>
+
+  <rect x="28" y="328" width="160" height="66" rx="10" fill="#E8DDD1"/>
+  <rect x="228" y="328" width="184" height="66" rx="10" fill="#E8DDD1"/>
+  <rect x="452" y="328" width="160" height="66" rx="10" fill="#E8DDD1"/>
+
+  <!-- Calles principales (crema claro) -->
+  <rect x="0" y="142" width="640" height="38" fill="#FFFDF9"/>
+  <rect x="0" y="290" width="640" height="38" fill="#FFFDF9"/>
+  <rect x="188" y="0" width="40" height="420" fill="#FFFDF9"/>
+  <rect x="412" y="0" width="40" height="420" fill="#FFFDF9"/>
+
+  <!-- Líneas de eje de calles -->
+  <line x1="0" y1="161" x2="640" y2="161" stroke="#D9C6B4" stroke-width="1.5" stroke-dasharray="8 8"/>
+  <line x1="0" y1="309" x2="640" y2="309" stroke="#D9C6B4" stroke-width="1.5" stroke-dasharray="8 8"/>
+  <line x1="208" y1="0" x2="208" y2="420" stroke="#D9C6B4" stroke-width="1.5" stroke-dasharray="8 8"/>
+  <line x1="432" y1="0" x2="432" y2="420" stroke="#D9C6B4" stroke-width="1.5" stroke-dasharray="8 8"/>
+
+  <!-- Nombres de calles -->
+  <text x="108" y="166" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#4E3B31">Calle Ejemplo</text>
+  <text x="532" y="166" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#4E3B31">Calle Ejemplo</text>
+  <text x="320" y="314" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#4E3B31">Av. Principal</text>
+
+  <text x="208" y="242" text-anchor="middle" transform="rotate(-90 208 242)" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#4E3B31">Pasaje del Grano</text>
+  <text x="432" y="96" text-anchor="middle" transform="rotate(-90 432 96)" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#4E3B31">Bulevar Central</text>
+
+  <!-- Estación de transporte -->
+  <rect x="66" y="346" width="108" height="30" rx="6" fill="#231915"/>
+  <circle cx="84" cy="361" r="7" fill="#E8C687"/>
+  <text x="84" y="365" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#231915">M</text>
+  <text x="128" y="365" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#FAF6F0">Est. Centro</text>
+
+  <!-- Pin de Cafetería Demo en esquina Calle Ejemplo 123 -->
+  <circle cx="316" cy="186" r="24" fill="#9E3E20" opacity="0.22"/>
+  <path d="M316 112c-20 0-36 16-36 36 0 26 36 62 36 62s36-36 36-62c0-20-16-36-36-36Z" fill="#9E3E20" stroke="#231915" stroke-width="3"/>
+  <circle cx="316" cy="146" r="14" fill="#FAF6F0"/>
+  <path d="M308 144h16v6a8 8 0 0 1-16 0v-6Z" fill="#231915"/>
+
+  <!-- Etiqueta del local -->
+  <rect x="228" y="62" width="176" height="42" rx="10" fill="#231915"/>
+  <text x="316" y="81" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#FAF6F0">Cafetería Demo</text>
+  <text x="316" y="96" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#E8DDD1">Calle Ejemplo 123 · Barrio Centro</text>
+
+  <!-- Rosa de los vientos minimalista -->
+  <g transform="translate(576 56)">
+    <circle cx="0" cy="0" r="20" fill="#FFFDF9" stroke="#231915" stroke-width="2"/>
+    <path d="M0-13l4 13-4-3-4 3Z" fill="#9E3E20"/>
+    <text x="0" y="13" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#231915">N</text>
+  </g>
+</svg>

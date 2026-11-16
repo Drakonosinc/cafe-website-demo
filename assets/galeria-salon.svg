@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" width="480" height="360">
+  <rect width="480" height="360" rx="20" fill="#F2EAE0"/>
+  <!-- Ventanal lateral con luz -->
+  <rect x="26" y="42" width="110" height="196" rx="12" fill="#FFFDF9" stroke="#231915" stroke-width="2.5"/>
+  <line x1="81" y1="42" x2="81" y2="238" stroke="#D9C6B4" stroke-width="2.5"/>
+  <line x1="26" y1="126" x2="136" y2="126" stroke="#D9C6B4" stroke-width="2.5"/>
+
+  <!-- Estantería trasera -->
+  <line x1="168" y1="108" x2="438" y2="108" stroke="#6F4733" stroke-width="6" stroke-linecap="round"/>
+  <line x1="168" y1="166" x2="438" y2="166" stroke="#6F4733" stroke-width="6" stroke-linecap="round"/>
+  <!-- Tazas y frascos en estantes -->
+  <rect x="184" y="76" width="24" height="29" rx="4" fill="#9E3E20" stroke="#231915" stroke-width="2"/>
+  <rect x="220" y="76" width="24" height="29" rx="4" fill="#FAF6F0" stroke="#231915" stroke-width="2"/>
+  <rect x="256" y="82" width="20" height="23" rx="3" fill="#456D52" stroke="#231915" stroke-width="2"/>
+  <rect x="358" y="68" width="28" height="37" rx="5" fill="#C9A27E" stroke="#231915" stroke-width="2"/>
+  <rect x="396" y="74" width="26" height="31" rx="4" fill="#3B251B" stroke="#231915" stroke-width="2"/>
+
+  <!-- Lámparas colgantes de terracota -->
+  <line x1="230" y1="0" x2="230" y2="48" stroke="#231915" stroke-width="2.5"/>
+  <path d="M204 48h52l10 26h-72Z" fill="#9E3E20" stroke="#231915" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="230" cy="76" rx="14" ry="4" fill="#E8C687"/>
+
+  <line x1="358" y1="0" x2="358" y2="48" stroke="#231915" stroke-width="2.5"/>
+  <path d="M332 48h52l10 26h-72Z" fill="#9E3E20" stroke="#231915" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="358" cy="76" rx="14" ry="4" fill="#E8C687"/>
+
+  <!-- Máquina de espresso en barra -->
+  <rect x="266" y="182" width="112" height="58" rx="8" fill="#231915"/>
+  <rect x="278" y="192" width="88" height="16" rx="3" fill="#E8DDD1"/>
+  <rect x="288" y="216" width="18" height="12" rx="2" fill="#9E3E20"/>
+  <rect x="336" y="216" width="18" height="12" rx="2" fill="#9E3E20"/>
+  <!-- Molino de café -->
+  <rect x="192" y="196" width="44" height="44" rx="6" fill="#4E3B31" stroke="#231915" stroke-width="2.4"/>
+  <path d="M196 196l10-32h16l10 32Z" fill="#FAF6F0" fill-opacity="0.85" stroke="#231915" stroke-width="2.2"/>
+
+  <!-- Barra acanalada de madera -->
+  <rect x="150" y="240" width="304" height="16" rx="5" fill="#FFFDF9" stroke="#231915" stroke-width="2.8"/>
+  <rect x="158" y="256" width="288" height="84" fill="#B98B64" stroke="#231915" stroke-width="2.8"/>
+  <path d="M186 256v84M214 256v84M242 256v84M270 256v84M298 256v84M326 256v84M354 256v84M382 256v84M410 256v84" stroke="#8C593D" stroke-width="2.5"/>
+
+  <!-- Banqueta izquierda y planta -->
+  <rect x="66" y="266" width="54" height="12" rx="5" fill="#9E3E20" stroke="#231915" stroke-width="2.4"/>
+  <line x1="78" y1="278" x2="72" y2="340" stroke="#231915" stroke-width="4" stroke-linecap="round"/>
+  <line x1="108" y1="278" x2="114" y2="340" stroke="#231915" stroke-width="4" stroke-linecap="round"/>
+  <line x1="75" y1="308" x2="111" y2="308" stroke="#231915" stroke-width="3"/>
+  <rect y="338" width="480" height="22" fill="#D8BEA5"/>
+</svg>
